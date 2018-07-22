@@ -1,0 +1,15 @@
+photostore\SelectedContent.class
+photostore\PhotoInfo.class
+photostore\LoginInformation.class
+photostore\RegisterUser.class
+photostore\DownloadData.class
+photostore\AlbumDatabaseHandler.class
+photostore\HelloWorld.class
+photostore\LoginDatabaseHandler.class
+photostore\DeleteData.class
+photostore\StorageHandler.class
+photostore\AlbumInformation.class
+photostore\GetUserData.class
+photostore\StoreRegion.class
+photostore\VerifyUser.class
+photostore\UploadData.class
